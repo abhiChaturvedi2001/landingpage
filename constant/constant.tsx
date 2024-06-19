@@ -28,3 +28,30 @@ export const featuresImage = [
     extras: "& Fitness",
   },
 ];
+
+export const data = [
+  {
+    id: 1,
+    imageLink: "https://cdn-icons-png.flaticon.com/128/10466/10466300.png",
+    name: "Book With",
+    statement: "Only 20%",
+  },
+  {
+    id: 2,
+    imageLink: "https://cdn-icons-png.flaticon.com/128/2652/2652181.png",
+    name: "Payment Plan",
+    statement: "Easy 70 / 30",
+  },
+  {
+    id: 3,
+    imageLink: "https://cdn-icons-png.flaticon.com/128/8083/8083015.png",
+    name: "Handover On",
+    statement: "q2 2027",
+  },
+  {
+    id: 4,
+    imageLink: "https://cdn-icons-png.flaticon.com/128/8083/8083015.png",
+    name: "Area Starts from",
+    statement: "700 sqmt",
+  },
+];
