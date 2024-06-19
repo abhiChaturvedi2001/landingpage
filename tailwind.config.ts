@@ -15,12 +15,13 @@ const config: Config = {
       },
       backgroundColor: {
         'custom-rgba': 'rgba(55, 133, 213, 0.4)',
+        'custom-rgba2': 'rgba(0,0,0,0.4)',
       },
       boxShadow: {
         'custom-shadow': '0 8px 32px 0 rgba(31, 38, 135, 0.37)',
       },
       backdropBlur: {
-        'custom-blur': '11.5px',
+        'custom-blur': '13.5px',
       },
       fontFamily:{
         "Oswald" : ["Oswald" , "sans-serif"]
