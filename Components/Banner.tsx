@@ -3,7 +3,7 @@ import React from "react";
 const Banner = () => {
   return (
     <>
-      <div className="banner  flex justify-around items-center flex-wrap max-lg:py-5  ">
+      <div className="banner flex justify-around items-center flex-wrap max-lg:py-5  ">
         <div className="left max-lg:mt-[100px]">
           <h1 className="text-5xl max-md:text-3xl font-bold text-white font-Oswald">
             HARBOURS LIGHTS

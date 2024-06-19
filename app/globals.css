@@ -6,9 +6,8 @@
 
 
 .banner {
-    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('https://images.pexels.com/photos/823696/pexels-photo-823696.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1');
+    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("https://cdn.pixabay.com/photo/2023/10/11/11/42/coast-8308438_1280.jpg");
     width: 100%;
     min-height: 90vh;
-    height: auto;
-    background-position: 100% 80%;
+    background-size: cover;
 }
