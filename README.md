@@ -1,21 +1,30 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-## cloning the APP
+## Cloning the APP
 
-First you have to be clone the project by click the download button that comes on top the page when you are on the repository page 
+## 1.Windows 
+
+open your windows powershell or make a folder then open that folder into your Vs code and open VsCode terminal then write this command https://github.com/abhiChaturvedi2001/landingpage.git it automatically clone the project into your system 
+
+## 2. Mac OS
+
+open your mac terminal or vscode terminal then simple paste this url https://github.com/abhiChaturvedi2001/landingpage.git then press ENTER it clone the project.
 
 Then after you have to follow step that is given below :- 
 
 ## Getting Started
 
-First, run the development server:
+First, run the development server open your terminal and write one of the give command into your terminal :
 
 ```bash
 npm run dev
+
 # or
 yarn dev
+
 # or
 pnpm dev
+
 # or
 bun dev
 ```
