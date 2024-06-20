@@ -16,6 +16,9 @@ const config: Config = {
       backgroundColor: {
         'custom-rgba': 'rgba(55, 133, 213, 0.4)',
         'custom-rgba2': 'rgba(0,0,0,0.4)',
+        "custom-bg2" : "#17ABFF",
+        "custom-bg3" : "#00357B"
+
       },
       boxShadow: {
         'custom-shadow': '0 8px 32px 0 rgba(31, 38, 135, 0.37)',
@@ -25,6 +28,14 @@ const config: Config = {
       },
       fontFamily:{
         "Oswald" : ["Oswald" , "sans-serif"]
+      },
+      textColor:{
+        "text-primary-Color" : "#17ABFF",
+        "text-color-2" : "white"
+      },
+      borderColor:{
+        "border-custom" : "#17ABFF",
+        "border-custom2" : "#00357B"
       }
     },
   },

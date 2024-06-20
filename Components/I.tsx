@@ -4,8 +4,8 @@ import React from "react";
 const I = () => {
   return (
     <>
-      <div className="bg-[#F4F9FF] h-[30vh] w-full">
-        <div className="flex items-center justify-around h-[30vh] w-[70%] mx-auto">
+      <div className="bg-[#F4F9FF] min-h-[40vh] w-full max-md:py-5">
+        <div className="flex items-center justify-around h-[40vh] w-[70%] mx-auto flex-wrap max-md:gap-y-5">
           {data.map((items) => {
             return (
               <>

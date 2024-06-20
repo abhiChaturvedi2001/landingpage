@@ -55,3 +55,12 @@ export const data = [
     statement: "700 sqmt",
   },
 ];
+
+export const imageLink1 =
+  "https://cdn.pixabay.com/photo/2019/03/09/21/30/downtown-4045035_1280.jpg";
+export const imageLink2 =
+  "https://cdn.pixabay.com/photo/2019/05/28/00/15/indoors-4234071_640.jpg";
+export const imageLink3 =
+  "https://cdn.pixabay.com/photo/2019/07/30/14/12/woman-4373078_960_720.jpg";
+export const imageLink4 =
+  "https://cdn.pixabay.com/photo/2013/03/09/14/38/gym-91849_960_720.jpg";

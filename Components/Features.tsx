@@ -6,8 +6,10 @@ const Features = () => {
     <>
       <div className="min-h-[100vh]">
         <div className="text-center mt-[50px] px-5 py-5">
-          <h1 className="text-4xl tracking-wider text-[#00357B]">HARBOURS</h1>
-          <h1 className="text-4xl tracking-wider text-[#00357B]">Lights</h1>
+          <h1 className="text-4xl tracking-widest text-[#00357B]">HARBOURS</h1>
+          <h1 className="text-4xl tracking-widest text-[#00357B] uppercase ">
+            Lights
+          </h1>
           <h6 className="mt-2 text-[#00357B]">
             de <span className="uppercase">Grisogono</span>
           </h6>
