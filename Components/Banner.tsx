@@ -40,7 +40,7 @@ const Banner = () => {
           </div>
           <div className="bg-custom-rgba absolute bottom-0 px-3 py-4">
             <p>
-              Get on expert's presentation of real estate in Dubai for life and
+              Get on experts presentation of real estate in Dubai for life and
               investment
             </p>
           </div>
